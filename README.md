@@ -1,0 +1,2 @@
+# Extractive-text-summarizaion-for-arabic-language-using-classical-NLP
+In this project, I developed and compared different methods for text summarization of Arabic articles. Utilizing  extractive techniques, I explored various algorithms such LSA , text rank , tfidf , text reduction and approaches to generate concise and accurate summaries, enhancing the accessibility and comprehension of Arabic textual content
